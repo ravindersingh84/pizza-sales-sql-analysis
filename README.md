@@ -103,6 +103,24 @@ Through this project, I practiced writing SQL queries to analyze structured sale
 
 This project strengthened my SQL skills and helped me understand how data analysis can support business decision-making.
 
+## 📸 SQL Query Results
+
+### 1. Total Orders
+![Total Orders](screenshots/Total_Orders.png)
+
+### 2. Total Revenue
+![Total Revenue](screenshots/Total_Revenue.png)
+
+### 3. Top 3 Pizza Types by Revenue
+![Top Pizza Types by Revenue](screenshots/3_Most_ordered_pizza_Types_based_on_revenue.png)
+
+### 4. Top 5 Pizza Types by Quantity Sold
+![Top Pizza Types by Quantity](screenshots/5_Most_ordered_pizza_types_with_quantity.png)
+
+### 5. Quantity of Each Pizza Category Ordered
+![Pizza Category Quantity](screenshots/Quantity_of_each_pizza_category_ordered.png)
+
+
 ## 👨‍💻 Author
 
 **Ravinder Singh**
